@@ -1,5 +1,3 @@
-// 1) Дана последовательность N целых чисел. Найти сумму простых чисел.
-
 import java.util.Scanner;
 
 public class Task1 {
